@@ -1,0 +1,5 @@
+feature_name,csv_filename,column_name
+player_name,data/player_stats_tradiotional_accumulated_E2024allSeasons.csv,player.name
+player_age,data/player_stats_tradiotional_accumulated_E2024allSeasons.csv,player.age
+assists_per_game,data/player_stats_tradiotional_accumulated_E2024allSeasons.csv,assists
+points_per_game,data/player_stats_tradiotional_accumulated_E2024allSeasons.csv,pointsScored
